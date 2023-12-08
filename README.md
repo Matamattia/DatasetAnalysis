@@ -16,3 +16,10 @@ This project focuses on building an optimal linear regression model on image qua
 
 The values of the various regressors are standardized for consistency.
 
+## Tech Stack
+The project was implemented using the following technologies:
+
+- **R:** The programming language used for statistical computing and graphics.
+- **R Studio:** An integrated development environment (IDE) for R, providing a user-friendly interface and tools for data analysis.
+
+
